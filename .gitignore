@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model files
+model.pkl
+columns.pkl
+
+# Dataset files
+dataset.csv
+a.csv
+
+# Generated files
+predictions.csv
+
+# macOS
+.DS_Store
