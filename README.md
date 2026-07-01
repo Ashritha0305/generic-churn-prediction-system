@@ -1,4 +1,4 @@
-# Generic Churn Prediction System
+# Generic Churn Prediction System description
 
 A small end-to-end churn analysis project that can:
 
