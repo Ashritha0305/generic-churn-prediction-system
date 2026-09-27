@@ -19,3 +19,30 @@ predictions.csv
 
 # macOS
 .DS_Store
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# MLflow local database and artifacts
+mlflow.db
+mlruns/
+mlflow_artifacts/
+
+# Generated monitoring files
+drift_report.csv
+monitoring_summary.json
+performance_summary.json
+production_data.csv
+
+# Model/data artifacts
+model.pkl
+predictions.csv
+columns.pkl
+
+# Python generated files
+*.log
+
+telco_dataset.csv
